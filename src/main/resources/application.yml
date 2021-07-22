@@ -3,7 +3,6 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/SPRINGTennisClub/ConfigServer
-          default-label: develop
+          uri: https://github.com/SPRINGTennisClub/Configuration.git
 server:
   port: 8888
